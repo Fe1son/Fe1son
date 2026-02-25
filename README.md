@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fe1son&show_icons=true&theme=tokyonight&hide_border=true" alt="Fe1son's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fe1son&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats-one-six.vercel.app/api/top-langs/?username=Fe1son&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
