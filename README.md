@@ -2,11 +2,9 @@
 ### Web Developer & Game Developer
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Fe1son&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fe1son's GitHub Stats" />
-  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fe1son&show_icons=true&theme=tokyonight&hide_border=true" alt="Fe1son's GitHub Stats" />
   <br/>
-  
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Fe1son&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fe1son&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
